@@ -174,5 +174,7 @@
     }
   ],
   "description": "<p>Titanium Dragon's Warden class for Pathfinder 2E.</p>",
-  "url": "https://github.com/TitaniumDragon/warden-pf2e"
+  "url": "https://github.com/TitaniumDragon/warden-pf2e",
+  "manifest": "https://raw.githubusercontent.com/TitaniumDragon/warden-pf2e/main/module.json",
+  "download": "https://github.com/TitaniumDragon/warden-pf2e/releases/download/warden-pf2e/warden-pf2e.zip"
 }
