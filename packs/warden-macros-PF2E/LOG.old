@@ -1,0 +1,8 @@
+2026/06/28-05:10:58.695 f1e4 Recovering log #33
+2026/06/28-05:10:58.700 f1e4 Delete type=0 #33
+2026/06/28-05:10:58.700 f1e4 Delete type=3 #31
+2026/06/28-05:16:13.675 10b70 Level-0 table #38: started
+2026/06/28-05:16:13.675 10b70 Level-0 table #38: 0 bytes OK
+2026/06/28-05:16:13.677 10b70 Delete type=0 #36
+2026/06/28-05:16:13.679 10b70 Manual compaction at level-0 from '!macros!AuqsOGI5xVy1pG6P' @ 72057594037927935 : 1 .. '!macros!kSZYUYwzhzXJ4ALU' @ 0 : 0; will stop at (end)
+2026/06/28-05:16:13.679 10b70 Manual compaction at level-1 from '!macros!AuqsOGI5xVy1pG6P' @ 72057594037927935 : 1 .. '!macros!kSZYUYwzhzXJ4ALU' @ 0 : 0; will stop at (end)

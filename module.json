@@ -1,0 +1,177 @@
+{
+  "id": "warden-pf2e",
+  "title": "Warden",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Titanium Dragon",
+      "email": "TheTitaniumDragon@hotmail.com",
+      "discord": "TitaniumDragon",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true,
+    "warden-pf2e": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "warden": "Warden"
+      	}
+      }
+    }
+  },
+  "packs": [
+    {
+      "name": "warden-class-PF2E",
+      "label": "Warden Class",
+      "path": "packs/warden-class-PF2E",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "warden-equipment-PF2E",
+      "label": "Warden Equipment",
+      "path": "packs/warden-equipment-PF2E",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "warden-monsters-PF2E",
+      "label": "Warden Monsters",
+      "path": "packs/warden-monsters-PF2E",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "warden-guide-PF2E",
+      "label": "Warden Guide",
+      "path": "packs/warden-guide-PF2E",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "warden-actions-PF2E",
+      "label": "Warden Actions",
+      "path": "packs/warden-actions-PF2E",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "warden-spells-PF2E",
+      "label": "Warden Spells",
+      "path": "packs/warden-spells-PF2E",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "warden-effects-PF2E",
+      "label": "Warden Effects",
+      "path": "packs/warden-effects-PF2E",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "warden-feats-PF2E",
+      "label": "Warden Feats",
+      "path": "packs/warden-feats-PF2E",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "warden-companions-PF2E",
+      "label": "Warden Companions",
+      "path": "packs/warden-companions-PF2E",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "warden-macros-PF2E",
+      "label": "Warden Macros",
+      "path": "packs/warden-macros-PF2E",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Lost Isle Enterprises",
+      "sorting": "a",
+      "folders": [
+        {
+          "name": "Warden",
+          "sorting": "a",
+          "color": "#009411",
+          "packs": [
+            "warden-class-PF2E",
+            "warden-equipment-PF2E",
+            "warden-monsters-PF2E",
+            "warden-guide-PF2E",
+            "warden-actions-PF2E",
+            "warden-spells-PF2E",
+            "warden-effects-PF2E",
+            "warden-feats-PF2E",
+            "warden-companions-PF2E",
+            "warden-macros-PF2E"
+          ],
+          "folders": []
+        }
+      ],
+      "color": null,
+      "packs": []
+    }
+  ],
+  "description": ""
+}
